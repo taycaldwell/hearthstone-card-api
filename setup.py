@@ -9,7 +9,7 @@ db = client.database
 card_db = db.card_db
 
 # Clean db
-card_db.remove()
+#card_db.remove()
 
 for f in glob.glob('json/*.json'):
 	with open(f) as data_file:
