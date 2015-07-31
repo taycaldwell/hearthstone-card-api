@@ -1,2 +1,3 @@
-# hearthstone-card-api
-Hearthstone Card API
+# Hearth Card API
+
+Publicly available @ http://hearthapi.com
