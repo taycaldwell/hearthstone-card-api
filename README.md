@@ -1,3 +1,3 @@
 # Hearth Card API
 
-Publicly available @ http://hearthapi.com
+Documentation @ http://docs.hearthstone.apiary.io/#
