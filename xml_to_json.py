@@ -10,11 +10,11 @@ import errno
 # Convert Hearthstone card data XML to JSON #
 #############################################
 
-__author__ = "Rithms - http://github.com/rithms"
-__copyright__ = "Copyright 2015, Rithms"
+__author__ = "rithms - http://github.com/rithms"
+__copyright__ = "Copyright 2015, rithms"
 __license__ = "MIT"
 __version__ = "1.0.0"
-__maintainer__ = "Rithms"
+__maintainer__ = "rithms"
 __email__ = "tay@rithms.net"
 __status__ = "Production"
  
