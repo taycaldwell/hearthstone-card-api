@@ -1,4 +1,4 @@
-# Hearth Card API
+# Hearthstone Card API
 
 Documentation @ http://docs.hearthstone.apiary.io/#
 
