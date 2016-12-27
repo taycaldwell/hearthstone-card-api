@@ -10,12 +10,12 @@ import errno
 # Convert Hearthstone card data XML to JSON #
 #############################################
 
-__author__ = "rithms - http://github.com/rithms"
-__copyright__ = "Copyright 2015, rithms"
+__author__ = "taycaldwell - http://github.com/taycaldwell"
+__copyright__ = "Copyright 2015, Taylor Caldwell"
 __license__ = "MIT"
 __version__ = "1.0.0"
-__maintainer__ = "rithms"
-__email__ = "tay@rithms.net"
+__maintainer__ = "taycaldwell"
+__email__ = "tay@caldwell.io"
 __status__ = "Production"
  
 # EnumIds - Non-Boolean
